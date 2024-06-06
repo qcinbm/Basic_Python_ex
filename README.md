@@ -111,10 +111,10 @@ exercise3()
 ### Description
 
 Write functions to approximate the following functions using a Taylor series expansion:
-- \(\sin(x)\)
-- \(\cos(x)\)
-- \(\sinh(x)\)
-- \(\cosh(x)\)
+- $$\(\sin(x)\)$$
+- $$\(\cos(x)\)$$
+- $$\(\sinh(x)\)$$
+- $$\(\cosh(x)\)$$
 
 ### Requirements
 
